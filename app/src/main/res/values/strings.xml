@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ScrolView10</string>
+    <string name="shottext" >
+    <u>Травка</u> зеленеет,\n
+    <i>Солнышко</i> блестит;\n
+    <b>Ласточка</b> с весною\n
+    В сени к нам летит.
+    </string>
+    <string name="shorttext2">С ней солнце краше\nИ весна милей...\nПрощебечь с дороги\nНам привет скорей!
+    </string>
+    <string name="shorttext3">Дам тебе я зёрен,\nА ты песню спой,\nЧто из стран далёких\nПринесла с собой...
+    </string>
+</resources>
